@@ -1,0 +1,34 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: MWM
+Driver Nodes: 96 out of 126
+Possible Critical Edge: "Acinetobacter.02"-"TM7_genus_incertae_sedis.05" 98
+Possible Critical Edge: "Actinomyces.01"-"Prevotella.03" 98
+Possible Critical Edge: "Actinomyces.02"-"Megasphaera.01" 98
+Possible Critical Edge: "Atopobium.01"-"Eubacterium.01" 98
+Possible Critical Edge: "F.Pasteurellaceae.01"-"Prevotella.08" 98
+Possible Critical Edge: "Prevotella.01"-"Prevotella.02" 98
+Possible Critical Edge: "Staphylococcus.01"-"Veillonella.01" 98
+Possible Critical Edge: "TM7_genus_incertae_sedis.04"-"TM7_genus_incertae_sedis.06" 98
