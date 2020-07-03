@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (network)
 # Output: Screen (list of edges)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin that runs the Maximum Weighted Matching algorithm (Galil, 1986)
 to help discover central edges in a network.
